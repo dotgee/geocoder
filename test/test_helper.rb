@@ -167,6 +167,13 @@ module Geocoder
       end
     end
 
+    class GeocodeFarm
+      private
+      def fixture_prefix
+        "geocode_farm"
+      end
+    end
+
     class Yandex
       private
       def default_fixture_filename

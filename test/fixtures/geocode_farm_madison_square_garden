@@ -1,0 +1,59 @@
+{
+    "geocoding_results": {
+        "LEGAL_COPYRIGHT": {
+            "copyright_notice": "Copyright (c) 2015 Geocode.Farm - All Rights Reserved.",
+            "copyright_logo": "https:\/\/www.geocode.farm\/images\/logo.png",
+            "terms_of_service": "https:\/\/www.geocode.farm\/policies\/terms-of-service\/",
+            "privacy_policy": "https:\/\/www.geocode.farm\/policies\/privacy-policy\/"
+        },
+        "STATUS": {
+            "access": "FREE_USER, ACCESS_GRANTED",
+            "status": "SUCCESS",
+            "address_provided": "4 Penn Plaza, New York, NY 10001, USA",
+            "result_count": 1
+        },
+        "ACCOUNT": {
+            "ip_address": "2a01:e35:8af9:d3b0:f151:5156:c27d:f9b6",
+            "distribution_license": "NONE, UNLICENSED",
+            "usage_limit": "250",
+            "used_today": "2",
+            "used_total": "2",
+            "first_used": "27 Mar 2015"
+        },
+        "RESULTS": [
+            {
+                "result_number": 1,
+                "formatted_address": "4 Pennsylvania Plaza, New York, NY 10001, USA",
+                "accuracy": "EXACT_MATCH",
+                "ADDRESS": {
+                    "street_number": "4",
+                    "street_name": "Pennsylvania Plaza",
+                    "neighborhood": "Midtown",
+                    "locality": "New York",
+                    "admin_2": "New York County",
+                    "admin_1": "New York",
+                    "postal_code": "10001",
+                    "country": "United States"
+                },
+                "LOCATION_DETAILS": {
+                    "elevation": "UNAVAILABLE",
+                    "timezone_long": "UNAVAILABLE",
+                    "timezone_short": "America\/New_York"
+                },
+                "COORDINATES": {
+                    "latitude": "40.7507042653783",
+                    "longitude": "-73.9937515666962"
+                },
+                "BOUNDARIES": {
+                    "northeast_latitude": "40.7507042613417",
+                    "northeast_longitude": "-73.9937515392750",
+                    "southwest_latitude": "40.7493552197094",
+                    "southwest_longitude": "-73.9951004802925"
+                }
+            }
+        ],
+        "STATISTICS": {
+            "https_ssl": "ENABLED, SECURE"
+        }
+    }
+}

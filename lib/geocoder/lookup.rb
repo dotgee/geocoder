@@ -28,6 +28,7 @@ module Geocoder
         :google_places_details,
         :yahoo,
         :bing,
+	:geocode_farm,
         :geocoder_ca,
         :geocoder_us,
         :yandex,
